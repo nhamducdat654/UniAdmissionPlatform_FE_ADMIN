@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad755c2c-8475-46c7-9131-1b6dd03ca274" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BI1ViFNzSpUVIZy7RRHossq3nR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Đồ Án/UniAdmissionPlatform_FE_ADMIN/UniAdmissionPlatform_FE_ADMIN",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "E:\\Đồ Án\\UniAdmissionPlatform_FE_ADMIN\\UniAdmissionPlatform_FE_ADMIN\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad755c2c-8475-46c7-9131-1b6dd03ca274" name="Changes" comment="" />
+      <created>1656578810287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656578810287</updated>
+      <workItem from="1656578811612" duration="570000" />
+      <workItem from="1656579415001" duration="1566000" />
+      <workItem from="1656594356552" duration="5357000" />
+      <workItem from="1656685511312" duration="1141000" />
+      <workItem from="1656835538291" duration="1218000" />
+      <workItem from="1656854370193" duration="110000" />
+      <workItem from="1656859039234" duration="39000" />
+      <workItem from="1656861055080" duration="2247000" />
+      <workItem from="1657101830683" duration="4052000" />
+      <workItem from="1657207015234" duration="1344000" />
+      <workItem from="1657344331427" duration="27000" />
+      <workItem from="1657546400499" duration="20000" />
+      <workItem from="1657628165460" duration="2470000" />
+      <workItem from="1657689725815" duration="1739000" />
+      <workItem from="1657727764302" duration="15000" />
+      <workItem from="1657776795660" duration="131000" />
+      <workItem from="1657789103391" duration="99000" />
+      <workItem from="1657907207323" duration="729000" />
+      <workItem from="1658150315430" duration="765000" />
+      <workItem from="1658204187936" duration="497000" />
+      <workItem from="1658210752858" duration="1343000" />
+      <workItem from="1658223297002" duration="356000" />
+      <workItem from="1658908784521" duration="1798000" />
+      <workItem from="1658932217557" duration="260000" />
+      <workItem from="1658990332115" duration="2891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
